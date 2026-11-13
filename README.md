@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=230&section=header&text=Ra%C3%BAl%20Ch%C3%A1vez&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Ingenier%C3%ADa%20en%20Sistemas%20Computacionales&descSize=18&descAlignY=56" width="100%" alt="Raúl Chávez">
+<img src="banner.svg" width="100%" alt="Raúl Chávez · Desarrollador Full Stack y Analista de Datos">
 
 <div align="center">
-
-<a href="https://github.com/raulchvzt"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Desarrollador+Full+Stack+%F0%9F%9A%80;Analista+de+Datos+%F0%9F%93%8A;React+%C2%B7+Node.js+%C2%B7+SQL+%C2%B7+Power+BI;Buscando+pr%C3%A1cticas+profesionales+%F0%9F%8E%AF" alt="Desarrollador Full Stack · Analista de Datos"></a>
 
 📍 Villa de Álvarez, Colima, México · 🎓 Instituto Tecnológico de Colima – TecNM
 
@@ -133,7 +131,5 @@ Español (nativo) · Inglés (intermedio, B1)
 ¿Tienes una oportunidad de prácticas o un proyecto en mente? **¡Escríbeme!** 📬
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="">
 
 
