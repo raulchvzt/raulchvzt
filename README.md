@@ -94,7 +94,20 @@ Sistema de inventario para un autolavado con 2 sucursales que reemplazó el cont
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+### 📊 [Turismo hotelero en Colima](https://github.com/raulchvzt/turismo-colima)
+
+Dashboard en Power BI sobre la ocupación hotelera de Manzanillo y Colima de 2010 a 2024, comparada con otros destinos del Pacífico, con datos abiertos de DataTur.
+
+<a href="https://github.com/raulchvzt/turismo-colima"><img src="https://raw.githubusercontent.com/raulchvzt/turismo-colima/main/capturas/resumen.png" alt="Dashboard de turismo en Colima" width="100%"></a>
+
+`Power BI` `DAX` `Power Query` `Python`
+
+[📂 Ver proyecto](https://github.com/raulchvzt/turismo-colima)
+
+</td>
+<td width="50%" valign="top">
 
 ### 💱 [Divix](https://github.com/raulchvzt/divix-frontend) · *en desarrollo*
 
