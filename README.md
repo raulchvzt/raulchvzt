@@ -115,13 +115,11 @@ Dashboard en Power BI sobre la ocupación hotelera de Manzanillo y Colima de 201
 </td>
 <td width="50%" valign="top">
 
-### 💱 [Divix](https://github.com/raulchvzt/divix-frontend) · *en desarrollo*
+### 💱 [Divix](https://github.com/raulchvzt/Divix)
 
 Sistema para casas de cambio: ventanilla de operaciones con ticket imprimible, tipos de cambio comparados con el FIX de Banxico, control de caja, estadísticas y un asistente con IA. Proyecto en equipo de 3.
 
 `React` `Tailwind CSS` `NestJS` `MySQL` `Recharts`
-
-[📂 Frontend](https://github.com/raulchvzt/divix-frontend) · [📂 Backend](https://github.com/raulchvzt/divix-backend)
 
 </td>
 </tr>
