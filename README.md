@@ -76,9 +76,31 @@ App web instalable (PWA) para entrenamiento de fuerza: registra series efectivas
 
 ### 🏎️ [JARide](https://github.com/raulchvzt/JARide)
 
+</td>
+<td width="50%" valign="top">
+
+### 🧼 [McFly Inventario](https://github.com/raulchvzt/mcfly-inventario)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="middle"><a href="https://github.com/raulchvzt/JARide"><img src="https://raw.githubusercontent.com/raulchvzt/JARide/master/docs/capturas/inicio.png" alt="JARide" width="100%"></a></td>
+<td width="50%" valign="middle"><a href="https://github.com/raulchvzt/mcfly-inventario"><img src="https://raw.githubusercontent.com/raulchvzt/mcfly-inventario/master/docs/capturas/panel.png" alt="McFly Inventario" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 Marketplace de vehículos seminuevos con revisión de publicaciones, simulador de financiamiento, mensajería y panel de administración. Presentado en **Innovatec 2026**.
 
-<a href="https://github.com/raulchvzt/JARide"><img src="https://raw.githubusercontent.com/raulchvzt/JARide/master/docs/capturas/inicio.png" alt="JARide" width="100%"></a>
+</td>
+<td width="50%" valign="top">
+
+Sistema de inventario para un autolavado con 2 sucursales que reemplazó el control con libretas y Excel: existencias en tiempo real, transferencias, compras, roles y reportes.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 `React` `Node.js` `Express` `PostgreSQL` `JWT`
 
@@ -86,12 +108,6 @@ Marketplace de vehículos seminuevos con revisión de publicaciones, simulador d
 
 </td>
 <td width="50%" valign="top">
-
-### 🧼 [McFly Inventario](https://github.com/raulchvzt/mcfly-inventario)
-
-Sistema de inventario para un autolavado con 2 sucursales que reemplazó el control con libretas y Excel: existencias en tiempo real, transferencias, compras, roles y reportes.
-
-<a href="https://github.com/raulchvzt/mcfly-inventario"><img src="https://raw.githubusercontent.com/raulchvzt/mcfly-inventario/master/docs/capturas/panel.png" alt="McFly Inventario" width="100%"></a>
 
 `React` `Node.js` `Express` `SQL Server` `Zod`
 
@@ -104,9 +120,31 @@ Sistema de inventario para un autolavado con 2 sucursales que reemplazó el cont
 
 ### 📊 [Turismo hotelero en Colima](https://github.com/raulchvzt/turismo-colima)
 
+</td>
+<td width="50%" valign="top">
+
+### 💱 [Divix](https://github.com/raulchvzt/Divix)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="middle"><a href="https://github.com/raulchvzt/turismo-colima"><img src="https://raw.githubusercontent.com/raulchvzt/turismo-colima/main/capturas/resumen.png" alt="Dashboard de turismo en Colima" width="100%"></a></td>
+<td width="50%" valign="middle"><a href="https://github.com/raulchvzt/Divix"><img src="https://raw.githubusercontent.com/raulchvzt/Divix/develop/docs/funcionalidades/capturas/18-ventanilla-resumen-con-operaciones.jpg" alt="Divix" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 Dashboard en Power BI sobre la ocupación hotelera de Manzanillo y Colima de 2010 a 2024, comparada con otros destinos del Pacífico, con datos abiertos de DataTur.
 
-<a href="https://github.com/raulchvzt/turismo-colima"><img src="https://raw.githubusercontent.com/raulchvzt/turismo-colima/main/capturas/resumen.png" alt="Dashboard de turismo en Colima" width="100%"></a>
+</td>
+<td width="50%" valign="top">
+
+Sistema para casas de cambio: ventanilla de operaciones con ticket imprimible, tipos de cambio comparados con el FIX de Banxico, control de caja, estadísticas y un asistente con IA. Proyecto en equipo de 4.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 `Power BI` `DAX` `Power Query` `Python`
 
@@ -114,12 +152,6 @@ Dashboard en Power BI sobre la ocupación hotelera de Manzanillo y Colima de 201
 
 </td>
 <td width="50%" valign="top">
-
-### 💱 [Divix](https://github.com/raulchvzt/Divix)
-
-Sistema para casas de cambio: ventanilla de operaciones con ticket imprimible, tipos de cambio comparados con el FIX de Banxico, control de caja, estadísticas y un asistente con IA. Proyecto en equipo de 4.
-
-<a href="https://github.com/raulchvzt/Divix"><img src="https://raw.githubusercontent.com/raulchvzt/Divix/develop/docs/funcionalidades/capturas/18-ventanilla-resumen-con-operaciones.jpg" alt="Divix" width="100%"></a>
 
 `React` `Tailwind CSS` `NestJS` `MySQL` `Recharts`
 
