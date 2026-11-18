@@ -123,6 +123,8 @@ Sistema para casas de cambio: ventanilla de operaciones con ticket imprimible, t
 
 `React` `Tailwind CSS` `NestJS` `MySQL` `Recharts`
 
+[📂 Ver proyecto](https://github.com/raulchvzt/Divix)
+
 </td>
 </tr>
 </table>
