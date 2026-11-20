@@ -63,11 +63,11 @@ Estudiante de último semestre con experiencia desarrollando aplicaciones web fu
 
 App web instalable (PWA) para entrenamiento de fuerza: registra series efectivas por RIR, sugiere el peso de cada día con **sobrecarga progresiva automática**, estima la recuperación de cada músculo en un **mapa muscular** interactivo y controla el inventario de suplementos. Funciona sin conexión y tiene reportes en PDF y CSV.
 
-<a href="https://github.com/raulchvzt/FitMetrics"><img src="https://raw.githubusercontent.com/raulchvzt/FitMetrics/main/docs/capturas/portada.webp" alt="FitMetrics: pantallas de inicio, entrenamiento y mapa muscular" width="100%"></a>
+<a href="https://fitmetrics-rose.vercel.app"><img src="https://raw.githubusercontent.com/raulchvzt/FitMetrics/main/docs/capturas/portada.webp" alt="FitMetrics: pantallas de inicio, entrenamiento y mapa muscular" width="100%"></a>
 
 `React` `Node.js` `Express` `SQL Server` `PWA` `Tailwind CSS` `Recharts`
 
-[📂 Código](https://github.com/raulchvzt/FitMetrics)
+[🔗 Ver demo](https://fitmetrics-rose.vercel.app) · [📂 Código](https://github.com/raulchvzt/FitMetrics)
 
 </td>
 </tr>
